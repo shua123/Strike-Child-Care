@@ -21,7 +21,7 @@ var MapsLib = {
   fusionTableId:      "1NSuENVwv7shZAA9JqDgrby6NbIcZZU1JLzb-UzE",  
   
   //*New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/      
-  googleApiKey:       "AIzaSyBZmv4Q6UbEd83q1GXlm6su2tMpwa18yrQ",        
+  googleApiKey:       "AIzaSyBqkYFh3lMuMw3dLIEKSYoUWLgCNfrNspU",        
   
   locationColumn:     "geometry",     //name of the location column in your Fusion Table
   map_centroid:       new google.maps.LatLng(41.8781136, -87.66677856445312), //center that your map defaults to
